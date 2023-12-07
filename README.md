@@ -5,5 +5,5 @@ pequena pesquisa é aplicar métodos de aprendizagem por reforço ensinados em a
 o ambiente da biblioteca Gymnasium em Python.
 
 Integrantes:
-Pedro Thomaz Conzatti Martins
-Abner Vera
+- Pedro Thomaz Conzatti Martins
+- Abner Vera
